@@ -246,7 +246,7 @@ opacity: 1;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-image: linear-gradient(rgba(64, 6, 97, 0.4), rgba(64, 6, 97, 0.4)), url('../assets/img/anh2.webp');
+    background-image: linear-gradient(rgba(64, 6, 97, 0.4), rgba(64, 6, 97, 0.4)), url('/assets/img/anh2.webp');
 }
 .home__container__slider {
     margin: auto;
