@@ -241,12 +241,11 @@ opacity: 1;
 
 /* Body */
 .home__background {
-    width: 100%;
-    height: 100vh;
+    background: linear-gradient(#4006614d, #40066166), url(../img/Turkey-Turkish-Cappadocia-hot-air-balloons-1149868-wallhere.com.jpg);
     background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
     background-size: cover;
-    background-position: center center;
-    background-image: linear-gradient(rgba(64, 6, 97, 0.4), rgba(64, 6, 97, 0.4)), url('/assets/img/anh2.webp');
 }
 .home__container__slider {
     margin: auto;
