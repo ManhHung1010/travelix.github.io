@@ -14,9 +14,15 @@
     .hide-on-pc {
         display: none;
     }
+    .header .scroll .header__nav__container {
+        padding: 20px 0;
+    }
 }
 /* Mobile and Tablet */
 @media (max-width: 1023px) {
+    .header .scroll .header__nav__container {
+        padding: 20px 0;
+    }
     .header__nav__container>.wide {
         position: relative;
     }
@@ -197,6 +203,9 @@
     .row {
         margin-left: 0;
         margin-right: 0;
+    }
+    .header .scroll .header__nav__container {
+        padding: 5px 0;
     }
     .header__nav__container--logo {
         font-size: 22px;
